@@ -1,4 +1,1 @@
-[[redirects]]
-from = "/*"
-to = "/index.html"
-status = 200
+http://localhost:8080/ https://master--cosmic-taffy-0ca684.netlify.app/ 301
