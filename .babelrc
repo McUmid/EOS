@@ -1,1 +1,5 @@
-{"presets": ["@babel/preset-env"], "sourceMaps": true, "ignore": ["node_modules", "build"]}
+{
+  "presets": ["@babel/preset-env"],
+  "sourceMaps": true,
+  "ignore": ["node_modules", "build"]
+}
