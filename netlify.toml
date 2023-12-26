@@ -1,7 +1,7 @@
-[build]
-  base = "/data/data/com.termux/files/home/htdocs/"
+[[build]
+  base = "/data/data/com.termux/files/home/htdocs"
   command = "npm run build"
-  publish = "/data/data/com.termux/files/home/htdocs/lib"
+  publish = "/data/data/com.termux/files/home/htdocs/public"
   
 [[redirects]]
   from = "/*"
