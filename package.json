@@ -3,5 +3,9 @@
   "scripts": {
     "build": "babel src -d lib",
     "test": "jest"
+  },
+  "devDependencies": {
+    "@babel/cli": "^7.23.4",
+    "@babel/core": "^7.23.6"
   }
 }
