@@ -1,4 +1,4 @@
-[[build]
+[build]
   base = "/data/data/com.termux/files/home/htdocs"
   command = "npm run build"
   publish = "/data/data/com.termux/files/home/htdocs/public"
